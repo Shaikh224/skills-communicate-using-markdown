@@ -3,3 +3,6 @@
 ``` c++
 int myVar = 100;
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
